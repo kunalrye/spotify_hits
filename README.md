@@ -10,7 +10,7 @@ The main goal of this project is to develop a model(s) that can accurately predi
 
 # To use this Repository
 
-**Ensure that data folder is inside the project**
+**Ensure that data folder is inside the project and install the libraries using the requirements.txt**
 
 
 ## Installation
