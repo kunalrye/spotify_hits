@@ -1,5 +1,5 @@
 # Predicting if a Song will be a Billboard Hit or Not?
-Rice DSIC 303 Fall 2020 project
+Rice DSCI 303 Fall 2020 project
 
 By: Josh Kowal, Kunal Rai
 
