@@ -25,7 +25,7 @@ The main goal of this project is to develop a model(s) that can accurately predi
 
 * ``requirements.txt`` - Packages required to run this repository
 * ``data`` - Directory containing the main data files for this project
-* ``Modeling.ipynb`` - notebook containing Logistic Regression, Neural Network, Gradient Boosting Classifier, and XGboost models
+* ``Modeling_.ipynb`` - notebook containing Logistic Regression, Neural Network, Gradient Boosting Classifier, and XGboost models
 * ``Modelling.ipynb`` - notebook containing Random Forest, SVM, and another Gradient Boosting Classifier
 
 
