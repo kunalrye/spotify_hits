@@ -16,7 +16,7 @@ The main goal of this project is to develop a model(s) that can accurately predi
 ## Installation
 
 `git clone https://github.com/kunalrye/spotify_hits.git` \
-`pip3 install -r requirements.txt` \
+`pip3 install -r requirements.txt` 
 
 ## Running code 
 
