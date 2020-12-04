@@ -27,9 +27,9 @@ To run our code and reproduce the results shown in the report, you can run each 
 * ``requirements.txt`` - Packages required to run this repository
 * ``data`` - Directory containing the main data files for this project
 * ``archived`` - Directory containing old .ipynb files that are not reproducible or essential to project
-* ``Modeling.ipynb`` - notebook containing Logistic Regression, Neural Network, Gradient Boosting Classifier, and XGboost models
-* ``Modelling.ipynb`` - notebook containing Random Forest, SVM, and another Gradient Boosting Classifier
-* ``CreateFinalSubset.ipynb`` - notebook containing the code to create the final subset from the final dataset.
+* ``CreateFinalSubset.ipynb`` - Notebook containing the code to create the final subset from the final dataset
+* ``Modeling.ipynb`` - Notebook containing Logistic Regression, Neural Network, Gradient Boosting Classifier, and XGboost models
+* ``Modelling.ipynb`` - Notebook containing Random Forest, SVM, and another Gradient Boosting Classifier
 * ``303_Final_Report_2.pdf`` - Final report for this project detailing our data science pipeline and project results
 
 
