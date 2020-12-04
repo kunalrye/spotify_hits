@@ -29,6 +29,7 @@ To run our code and reproduce the results shown in the report, you can run each 
 * ``archived`` - Directory containing old .ipynb files that are not reproducible or essential to project
 * ``Modeling_.ipynb`` - notebook containing Logistic Regression, Neural Network, Gradient Boosting Classifier, and XGboost models
 * ``Modelling.ipynb`` - notebook containing Random Forest, SVM, and another Gradient Boosting Classifier
+* ``CreateFinalSubset.ipynb`` - notebook containing the code to create the final subset from the final dataset.
 
 
 
