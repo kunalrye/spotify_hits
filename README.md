@@ -30,6 +30,7 @@ To run our code and reproduce the results shown in the report, you can run each 
 * ``Modeling.ipynb`` - notebook containing Logistic Regression, Neural Network, Gradient Boosting Classifier, and XGboost models
 * ``Modelling.ipynb`` - notebook containing Random Forest, SVM, and another Gradient Boosting Classifier
 * ``CreateFinalSubset.ipynb`` - notebook containing the code to create the final subset from the final dataset.
+* ``303_Final_Report_2.pdf`` - Final report for this project detailing our data science pipeline and project results
 
 
 
